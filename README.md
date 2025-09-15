@@ -2,7 +2,7 @@
 
 ## Informazioni Generali
   - **Nome:** Onboarding 
-  - **Autore:** Cybertech - Team PAM  
+  - **Autore:** Cybertech - Team PAM  Stef
   - **Versione:** v1.5
 
 ## UPDATE
